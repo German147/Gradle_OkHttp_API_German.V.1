@@ -10,4 +10,9 @@ public class FirstTestGerman {
     public void verificationTestOnGradle(){
         assertEquals(GermanExample.printingSomething(),"Hola German desde Gradle!! TEst","No Funka!!");
     }
+
+    @Test
+    public void secondSameTest(){
+        assertEquals(GermanExample.printingSomething(),"Hola German desde Gradle!! TEst","No Funka!!");
+    }
 }
