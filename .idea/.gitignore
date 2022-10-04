@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.idea/
+/build/
+/.gradle/
+/compiler.xml/
+/gradle.xml/
+/jarRepositories.xml/
+/misc.xml/
+/vcs.xml/
+/workspace.xml/
